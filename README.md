@@ -12,7 +12,7 @@
 
 ## 🔧 Skills
 
-- **Languages**: Python, JavaScript, TypeScript, C#,C++,VUE
+- **Languages**: Python, JavaScript, TypeScript, C#,C++, VUE
 - **Web Technologies**: HTML5, CSS3, React, Node.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, VSCode, Jupyter Notebook
