@@ -9,13 +9,12 @@
 - 👯 I’m looking to collaborate on **open-source projects** and **front-end development**.
 - 🤔 I’m looking for help with **deep learning frameworks**.
 - 💬 Ask me about **Python**, **Web Development**, and **Machine Learning**.
-- 📫 How to reach me: [Email me](mailto:your-email@example.com)
-- 😄 Pronouns: He/His
+- - 📫 How to reach me: [Email me](mailto:white3432551933@gmail.com)
 - ⚡ Fun fact: I love coding at night, when the world is quiet and peaceful.
 
 ## 🔧 Skills
 
-- **Languages**: Python, JavaScript, TypeScript, C#
+- **Languages**: Python, JavaScript, TypeScript, C#,C++,VUE
 - **Web Technologies**: HTML5, CSS3, React, Node.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, VSCode, Jupyter Notebook
@@ -31,8 +30,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobai-Lethe&langs_count=8&layout=compact)
 
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Blog](https://your-blog.com)
