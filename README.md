@@ -5,9 +5,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building modern web applications.
-- 🌱 I’m currently learning **Advanced Python** and **Machine Learning**.
-- 👯 I’m looking to collaborate on **open-source projects** and **front-end development**.
-- 🤔 I’m looking for help with **deep learning frameworks**.
+- 🌱 I’m currently learning **Advanced C++** and **java**.
 - 💬 Ask me about **Python**, **Web Development**, and **Machine Learning**.
 - - 📫 How to reach me: [Email me](mailto:white3432551933@gmail.com)
 - ⚡ Fun fact: I love coding at night, when the world is quiet and peaceful.
