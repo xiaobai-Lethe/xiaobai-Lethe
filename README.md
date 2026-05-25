@@ -43,8 +43,21 @@ Currently, I'm strengthening my skills in **C++**, **Java**, **C#**, and modern 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=xiaobai-Lethe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged,prs_merged_percentage" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=xiaobai-Lethe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&show=prs_merged,prs_merged_percentage" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobai-Lethe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaobai-Lethe&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaobai-Lethe&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaobai-Lethe&theme=tokyonight&utcOffset=8" />
 
 </div>
 
@@ -62,24 +75,35 @@ Currently, I'm strengthening my skills in **C++**, **Java**, **C#**, and modern 
 
 </div>
 
-## Featured Projects
+## Featured Public Projects
 
 <div align="center">
 
-<a href="https://github.com/xiaobai-Lethe/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/xiaobai-Lethe/IMGUI-DEBUG-TOOL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=IMGUI-DEBUG-TOOL&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/xiaobai-Lethe/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/xiaobai-Lethe/clash-verger-for-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=clash-verger-for-android&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/xiaobai-Lethe/DDC-CI-control">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=DDC-CI-control&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
+
+| Project | Focus | Tech Direction |
+| --- | --- | --- |
+| [IMGUI-DEBUG-TOOL](https://github.com/xiaobai-Lethe/IMGUI-DEBUG-TOOL) | Desktop debug tooling and ImGui development | C++ / ImGui / Debug Tool |
+| [clash-verger-for-android](https://github.com/xiaobai-Lethe/clash-verger-for-android) | Android client adaptation and cross-platform app exploration | Android / Tauri / React / Rust |
+| [DDC-CI-control](https://github.com/xiaobai-Lethe/DDC-CI-control) | Monitor control utility based on DDC/CI | C++ / Desktop Utility |
 
 ## Current Direction
 
 ```txt
 C++ / Java       █████████░░░   language fundamentals
 C#               ████████░░░░   application development
+Android / Tools  ███████░░░░░   practical utilities and client apps
 Web Development ████████░░░░   frontend and backend practice
 Software Design ██████░░░░░░   cleaner structure and maintainability
