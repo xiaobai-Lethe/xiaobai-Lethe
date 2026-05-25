@@ -75,30 +75,6 @@ Currently, I'm strengthening my skills in **C++**, **Java**, **C#**, and modern 
 
 </div>
 
-## Featured Public Projects
-
-<div align="center">
-
-<a href="https://github.com/xiaobai-Lethe/IMGUI-DEBUG-TOOL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=IMGUI-DEBUG-TOOL&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/xiaobai-Lethe/clash-verger-for-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=clash-verger-for-android&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/xiaobai-Lethe/DDC-CI-control">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaobai-Lethe&repo=DDC-CI-control&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-| Project | Focus | Tech Direction |
-| --- | --- | --- |
-| [IMGUI-DEBUG-TOOL](https://github.com/xiaobai-Lethe/IMGUI-DEBUG-TOOL) | Desktop debug tooling and ImGui development | C++ / ImGui / Debug Tool |
-| [clash-verger-for-android](https://github.com/xiaobai-Lethe/clash-verger-for-android) | Android client adaptation and cross-platform app exploration | Android / Tauri / React / Rust |
-| [DDC-CI-control](https://github.com/xiaobai-Lethe/DDC-CI-control) | Monitor control utility based on DDC/CI | C++ / Desktop Utility |
-
 ## Current Direction
 
 ```txt
@@ -106,4 +82,4 @@ C++ / Java       █████████░░░   language fundamentals
 C#               ████████░░░░   application development
 Android / Tools  ███████░░░░░   practical utilities and client apps
 Web Development ████████░░░░   frontend and backend practice
-Software Design ██████░░░░░░   cleaner structure and maintainability
+Software Design ██████░░░░░░   cleaner structure and maintainabilityty
